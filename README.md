@@ -21,6 +21,7 @@ Both methods above will elegantly display the *launcher* interface before the ma
 
 ### Key Features
 
+- **Integrated Direct Downloader**: This program is designed not only to play your locally saved songs but is also capable of directly downloading songs via a given link. The files are automatically downloaded and ready to be played within the program, eliminating the hassle of converting links using external third-party applications or websites.
 - **Multi-Extension Support (.mp3 & .mov)**: In addition to supporting standard audio formats such as `.mp3` and `.wav`, the embedded JavaFX engine is capable of extracting and playing *audio streams* from complex media files such as **`.mov`**, `.m4a`, and `.aac`.
 - **Independent Auto-Installer**: This application has an autonomous dependency download mechanism. If the required *libraries* are not found on the local system, the application will prompt the user for confirmation to **automatically download and extract them** through the internet protocol without requiring any third-party software.
 - **In-App Debug Terminal**: An internal *debug* terminal feature is available and can be accessed via the **"🛠 Debug"** button. This feature serves to monitor system logs and record technical information without disrupting the main user interface.
@@ -59,6 +60,7 @@ Kedua metode di atas akan memunculkan antarmuka *launcher* secara tertata sebelu
 
 ### Keunggulan Utama
 
+- **Integrated Direct Downloader**: Program ini tidak hanya dirancang untuk memutar lagu-lagu lokal yang sudah Anda simpan, tetapi juga mampu mengunduh lagu secara langsung melalui sebuah tautan (*link*). File akan otomatis terunduh dan langsung siap diputar di dalam program tanpa perlu repot mengonversi tautan tersebut melalui aplikasi atau situs web pihak ketiga.
 - **Dukungan Multi-Ekstensi (.mp3 & .mov)**: Selain mendukung format audio standar seperti `.mp3` dan `.wav`, instrumen JavaFX yang tertanam memiliki kemampuan untuk mengekstraksi dan memutar *audio stream* dari file media kompleks seperti **`.mov`**, `.m4a`, dan `.aac`.
 - **Auto-Installer Independen**: Aplikasi ini memiliki mekanisme pengunduhan dependensi secara mandiri. Apabila *library* yang dibutuhkan tidak ditemukan pada sistem, aplikasi akan meminta konfirmasi pengguna untuk **mengunduh dan mengekstraknya secara otomatis** tanpa memerlukan perangkat lunak tambahan.
 - **In-App Debug Terminal**: Tersedia fitur terminal *debug* internal yang dapat diakses melalui tombol **"🛠 Debug"**. Fitur ini berfungsi untuk memantau log sistem dan merekam informasi teknis tanpa mengganggu antarmuka utama.
