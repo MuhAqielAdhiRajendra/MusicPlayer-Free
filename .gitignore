@@ -1,0 +1,19 @@
+# Compiled class files
+*.class
+
+# Folders
+bin/
+downloads/
+ext_lib/
+javafx-*
+
+# Testing / Utility files
+StripComments.java
+TestJLayer.java
+TestSPI.java
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
